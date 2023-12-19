@@ -1,3 +1,9 @@
+/*  File: script.js
+    GUI Assignment: HW5
+    Jordy Guzman, UMass Lowell Computer Science, Jordy_guzmanalcaraz@student.uml.edu (c) 2023 
+    by Guzman. All rights reserved. May be freely copied or excerpted for educational 
+    purposes with credit to the author.
+*/
 const LetterImagesPaths =[
     'graphics_data/Scrabble_Tiles/Scrabble_Tile_A.jpg',
     'graphics_data/Scrabble_Tiles/Scrabble_Tile_B.jpg',
